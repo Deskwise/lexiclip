@@ -1,5 +1,12 @@
 # Lexiclip OCR
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://github.com/Deskwise/lexiclip)
+[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+
+> **Capture text from anywhere on your screen with a simple hotkey**
+
+
 A cross-platform OCR tool that captures text from your screen and copies it to your clipboard.
 
 ## Features
