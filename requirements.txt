@@ -1,0 +1,7 @@
+PySide6
+google-generativeai
+Pillow
+mss
+pynput
+python-dotenv
+pyinstaller
