@@ -16,11 +16,35 @@
 A cross-platform OCR tool that captures text from your screen and copies it to your clipboard.
 
 ## Features
-- **Cross-Platform**: Runs on Linux, Windows, and macOS (in progress).
+- **Cross-Platform**: Runs on Linux, Windows, and macOS.
 - **Instant OCR**: Select a region on your screen to capture text.
 - **Clipboard Integration**: Captured text is automatically copied to your clipboard.
 - **History**: Keeps a history of captured text.
 - **Smart Formatting**: Preserves paragraphs or joins lines based on context.
+
+## Download
+
+### macOS
+Download the latest `.app` from [Releases](https://github.com/Deskwise/lexiclipOCR/releases).
+
+> **⚠️ First Launch:** macOS will show a security warning because the app is not signed. To open:
+> 1. Right-click (or Control-click) the app
+> 2. Select **"Open"**
+> 3. Click **"Open"** in the dialog
+> 
+> You only need to do this once. macOS will remember your choice.
+
+### Windows
+Download the latest `.exe` from [Releases](https://github.com/Deskwise/lexiclipOCR/releases).
+
+### Linux
+Download the latest `.AppImage` from [Releases](https://github.com/Deskwise/lexiclipOCR/releases).
+
+```bash
+chmod +x LexiclipOCR-x86_64.AppImage
+./LexiclipOCR-x86_64.AppImage
+```
+
 
 ## Installation
 
